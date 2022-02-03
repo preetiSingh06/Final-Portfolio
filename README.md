@@ -10,6 +10,9 @@ It is a fully responsive porfolio website including required details of qualific
 
 -In navbar, there are all the tittle linked to their sections and theme buttton which includes dark and bright mode.
 
+![Screenshot (146)](https://user-images.githubusercontent.com/96286863/152427102-202ed2eb-8237-4974-8bbf-4c370c376332.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/96286863/152427116-f38cad71-e429-414d-82b3-f4f7ca735e06.png)
+
 ###Section-2
 
 -ABOUT brief about me
@@ -31,6 +34,7 @@ It is a fully responsive porfolio website including required details of qualific
 
 -PROJECTS includes my top 8 projects I learned till now. 
 With its title, small discription and a view code button will take you directly to the same code in my github account.
+Attached in slider.
 
 ########Section-7
 
