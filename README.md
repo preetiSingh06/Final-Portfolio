@@ -18,6 +18,8 @@ It is a fully responsive porfolio website including required details of qualific
 -ABOUT brief about me
 -A dowload button to get my resume 
 
+![Screenshot (150)](https://user-images.githubusercontent.com/96286863/152427483-2de564a5-55be-40cb-b4ff-0aa9c9fe9787.png)
+
 ####Section-3
 
 -INTEREST all my hobbies i love to do in my free time or when I need peace.
@@ -30,6 +32,9 @@ It is a fully responsive porfolio website including required details of qualific
 
 -QUALIFICTION chain of my education.
 
+
+![Screenshot (153)](https://user-images.githubusercontent.com/96286863/152427383-c9185166-b865-4860-92c6-dbaa118613a1.png)
+
 #######Section-6
 
 -PROJECTS includes my top 8 projects I learned till now. 
@@ -41,6 +46,11 @@ Attached in slider.
 -CONTACT ME this section includes my phone number, Email ID, location and a inbox.
 In the inbox you can directly send me the message with your name and email.
 
+![Screenshot (152)](https://user-images.githubusercontent.com/96286863/152427397-9030816a-6067-4c78-8a96-8ec3170488d7.png)
+
 #########Section-9
 
 -FOOTER at last this includes my name, all the section's title and my social media handle with a side button on RHS which will take you at the top.
+
+![Screenshot (155)](https://user-images.githubusercontent.com/96286863/152427467-0ccbd7de-f6f4-470c-8714-414ec2067766.png)
+
