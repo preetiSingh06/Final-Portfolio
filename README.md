@@ -12,6 +12,7 @@ It is a fully responsive porfolio website including required details of qualific
 
 ![Screenshot (146)](https://user-images.githubusercontent.com/96286863/152427102-202ed2eb-8237-4974-8bbf-4c370c376332.png)
 ![Screenshot (147)](https://user-images.githubusercontent.com/96286863/152427116-f38cad71-e429-414d-82b3-f4f7ca735e06.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/96286863/152428117-4a45f17f-3aa2-4d67-8bd6-1337b3432d03.png)
 
 ###Section-2
 
@@ -32,6 +33,7 @@ It is a fully responsive porfolio website including required details of qualific
 
 -QUALIFICTION chain of my education.
 
+![Screenshot (158)](https://user-images.githubusercontent.com/96286863/152428179-61c328e4-1237-4127-8586-50de5d3ff1b6.png)
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/96286863/152427383-c9185166-b865-4860-92c6-dbaa118613a1.png)
 
