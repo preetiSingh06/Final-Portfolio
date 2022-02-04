@@ -10,9 +10,7 @@ It is a fully responsive porfolio website including required details of qualific
 
 -In navbar, there are all the tittle linked to their sections and theme buttton which includes dark and bright mode.
 
-![Screenshot (146)](https://user-images.githubusercontent.com/96286863/152427102-202ed2eb-8237-4974-8bbf-4c370c376332.png)
-![Screenshot (147)](https://user-images.githubusercontent.com/96286863/152427116-f38cad71-e429-414d-82b3-f4f7ca735e06.png)
-![Screenshot (156)](https://user-images.githubusercontent.com/96286863/152428117-4a45f17f-3aa2-4d67-8bd6-1337b3432d03.png)
+https://user-images.githubusercontent.com/96286863/152561431-5807df35-c625-4ec4-bc9c-3a8d0c0eee08.mp4
 
 ###Section-2
 
@@ -24,6 +22,8 @@ It is a fully responsive porfolio website including required details of qualific
 ####Section-3
 
 -INTEREST all my hobbies i love to do in my free time or when I need peace.
+
+https://user-images.githubusercontent.com/96286863/152561090-56a41de1-ded3-40ad-a455-42e3c55191e5.mp4
 
 #####Section-4
 
@@ -41,13 +41,12 @@ It is a fully responsive porfolio website including required details of qualific
 With its title, small discription and a view code button will take you directly to the same code in my github account.
 Attached in slider.
 
-![Screenshot (152)](https://user-images.githubusercontent.com/96286863/152427397-9030816a-6067-4c78-8a96-8ec3170488d7.png)
+https://user-images.githubusercontent.com/96286863/152561731-0bfd94bc-bae9-4789-939a-19648e2e528e.mp4
 
 ########Section-7
 
 -CONTACT ME this section includes my phone number, Email ID, location and a inbox.
 In the inbox you can directly send me the message with your name and email.
-
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/96286863/152427383-c9185166-b865-4860-92c6-dbaa118613a1.png)
 
